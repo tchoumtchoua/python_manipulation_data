@@ -1,0 +1,7 @@
+En termes généraux, la scence des données est l'extraction de conaissance d'ensembles de données.   
+ 
+Elle emploie des techniques et des théories tirées de plusieurs autres domaines plus larges des mathématiques, la statistique principalement, la téorie de l'information et la technologie de l'information, notamment le traitement de signal, des modèles probabilistes, l'apprentissage automatique, l'apprentissage statistiqe, la programmation informatique, l'ingénierie de données, la reconnaissance de formes et l'apprentissage, la visualisation, l'analytique prophétique, la modélisation d'incertitude, le stokage de données, la compression de données et le calcul à haute performance. 
+ 
+Les méthodes qui s'adaptent aux données de masse sont particulièrement intéressantes dans la science des données, bien que la dicipline ne soit généralement pas considérée come limitée à ces données.   
+ 
+Le premier objectif est de produire des méthodes automatisées, autant que possible de tri et d'analyse de données de masse et de sources plus ou moins complexes ou disjointes de données, afin d'en extraire des informations utiles ou potentiellement utiles. Source Wikipédia
